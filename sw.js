@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fallen-empire-v1775934071445';
+const CACHE_NAME = 'fallen-empire-v1775936146015';
 const ASSETS = [
   './',
   './index.html',
